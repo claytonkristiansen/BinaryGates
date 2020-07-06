@@ -2,3 +2,7 @@
 *.vs
 *.vs/
 *.vcxproj
+*.obj
+*.ilk
+*.pdb
+*.exe
